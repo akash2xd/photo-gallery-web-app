@@ -49,3 +49,4 @@ export function useFetchPhotos() {
 
   return { photos, loading, error };
 }
+

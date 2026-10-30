@@ -69,3 +69,4 @@ export default function PhotoCard({ photo, isFavourite, onToggleFavourite }) {
     </article>
   );
 }
+
